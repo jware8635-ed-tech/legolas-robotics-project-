@@ -8,8 +8,7 @@
     },
     "files": [
         "main.ts",
-        "README.md",
-        "main.py"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
@@ -21,6 +20,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj",
+    "preferredEditor": "tsprj",
     "languageRestriction": "python-only"
 }
